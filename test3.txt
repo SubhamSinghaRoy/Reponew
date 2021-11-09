@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7A5F-4C0D
+
+ Directory of C:\Users\subha\OneDrive\Desktop\git folder
+
+09-11-2021  19:35    <DIR>          .
+09-11-2021  19:35    <DIR>          ..
+27-09-2021  21:51                22 index.html
+27-09-2021  21:51                 8 test1.txt
+28-09-2021  21:35                 0 test2.txt
+09-11-2021  19:35                 0 test3.txt
+               4 File(s)             30 bytes
+               2 Dir(s)  58,606,206,976 bytes free
